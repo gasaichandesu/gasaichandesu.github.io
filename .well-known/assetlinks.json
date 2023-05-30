@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "by.st.kgz.legal",
+               "sha256_cert_fingerprints": ["5B:D2:CB:75:A7:B5:8E:CD:8C:E7:4E:5F:79:45:6A:04:FF:C9:76:03:6E:0B:54:18:D5:31:A5:94:C5:36:0A:A6"] }
+}]
